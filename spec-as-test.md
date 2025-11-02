@@ -5,7 +5,7 @@ You are encouraged to use an LLM/agent
 
 Pick the assignment in your language:
 
-[C++](https://classroom.github.com/a/X1TGl-OP)
+[C++](https://classroom.github.com/a/Ugixfrq4)
 
 [C#](https://classroom.github.com/a/D5oKnc0D)
 
