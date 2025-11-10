@@ -4,6 +4,8 @@
 
 ## Try It
 
+[Modularity](small.md)
+
 [Spec as test](spec-as-test.md)
 
 ## References
