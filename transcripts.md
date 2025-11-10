@@ -1,0 +1,53 @@
+# Course transcripts
+
+This page covers the concepts covered in the exercises
+
+## Purpose
+
+Build habits for productivity and reliability.
+
+```mermaid
+graph LR
+    subgraph Productivity
+        A1["Quick releases"]
+        A2["More features"]
+        A3["Smaller teams"]
+        A4["Deadlines"]
+        A[Productivity]
+        A1 --> A
+        A2 --> A
+        A3 --> A
+        A4 --> A
+    end
+
+    subgraph Reliability
+        B1["Test coverage"]
+        B2["Linters"]
+        B3["Modularity"]
+        B4["Graceful degradation"]
+        B[Reliability]
+        B1 --> B
+        B2 --> B
+        B3 --> B
+        B4 --> B
+    end
+
+    C["Productivity AND Reliability"]
+    A --> C
+    B --> C
+```
+
+## Cycle of value
+
+The cycle of value is a cycle of writing code, testing it, and then refactoring it to improve its quality.
+This cycle keeps the code healthy and easy to maintain.
+It's like brushing your teeth - do it every day to keep your teeth healthy.
+
+```mermaid
+graph TD
+    M["Modularity"] --> T["FIRST tests"]
+    T --> F["Frequent releases"]
+    F --> C["Continuous improvement"]
+    C --> X["Control complexity"]
+    X --> M
+```

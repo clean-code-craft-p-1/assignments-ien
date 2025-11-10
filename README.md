@@ -1,5 +1,7 @@
 # Habits for speed and reliability
 
+[Course transcripts](transcripts.md)
+
 ## Try It
 
 [Spec as test](spec-as-test.md)
