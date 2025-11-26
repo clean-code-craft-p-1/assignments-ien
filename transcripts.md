@@ -64,6 +64,8 @@ Names for files, classes, or functions should be self-evident.
 A good name conveys purpose - without digging further into their code or comments.
 This saves time when reading code.
 
+Discussion: [The tension of naming](naming.md)
+
 ### Separate by lifecycle
 
 Keep stable code separate from evolving code.
