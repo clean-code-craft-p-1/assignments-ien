@@ -4,6 +4,8 @@
 
 ## Try It
 
+[Strong tests](strong.md)
+
 [Modularity](small.md)
 
 [Spec as test](spec-as-test.md)
